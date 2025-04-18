@@ -1,6 +1,6 @@
 
 def main():
     print("fffff")
-    print("aaaa")
+    print("bbbbb")
 
 main()
